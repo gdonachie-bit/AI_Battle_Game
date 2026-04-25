@@ -1,5 +1,13 @@
 # AI Battle App — CLAUDE.md
 
+## Repository
+
+[github.com/gdonachie-bit/AI_Battle_Game](https://github.com/gdonachie-bit/AI_Battle_Game)
+
+```bash
+git add -A && git commit -m "message" && git push
+```
+
 ## What This Is
 
 A two-player hotseat battle game. Each player picks a concept (or selects from curated categories) and Claude Haiku decides the winner with an entertaining explanation. Runs entirely in the browser — no backend.
